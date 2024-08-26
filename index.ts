@@ -1,2 +1,2 @@
-export { Chatbot } from './Chatbox';
-export { chatHandler } from './api/chat';
+export { Chatbot } from './src/Chatbox';
+export { chatHandler } from './src/api/chat';
