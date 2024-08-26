@@ -1,1 +1,1 @@
-export { chatHandler } from './src/api/chat';
+export { chatHandler } from './api/chat';
