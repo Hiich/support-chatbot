@@ -1,2 +1,2 @@
 import React from 'react';
-export declare const Chatbot: React.FC;
+export default function Chatbox(): React.JSX.Element;
